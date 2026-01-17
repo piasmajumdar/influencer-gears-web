@@ -326,7 +326,7 @@ footer {
 
 @media screen and (min-width: 576px) and (max-width: 992px) {
     .sponsor {
-        flex-wrap: wrap;
+        /* flex-wrap: wrap; */
         justify-content: space-evenly;
     }
 
